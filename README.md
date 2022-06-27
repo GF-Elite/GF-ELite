@@ -18,7 +18,7 @@
 
 
 
-### 💻 Program Sedang Fi pelajarin
+### 💻 Program Sedang Di pelajarin
 
 <br>
 
