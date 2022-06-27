@@ -18,7 +18,7 @@
 
 
 
-### 💻 Stack I Work With
+### 💻 Program Sedang Fi pelajarin
 
 <br>
 
