@@ -191,7 +191,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+  <img src="[https://profile-counter.glitch.me/DHANOLA/count.svg](https://profile-counter.glitch.me/%7BGF-Elite%7D/count.svg)" />  
 </p>
    
   
